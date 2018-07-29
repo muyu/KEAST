@@ -1,0 +1,21 @@
+删除远程仓库文件，直接删除远程仓库的，本地仓库的还是没有删除，可以进行物理删除或者叫手动删除。
+git rm -r --cached a/2.txt                    // 删除a目录下的2.txt文件   不带-r 本地也会删除
+git commit -m  "删除a目录下的2.txt文件"  
+git push        
+
+$ git log --pretty=oneline
+a65eebe8ae8c080ebd8eeab6ff12a89cfde52836 add push_email.py
+51857938f7f6ce6a3c241b9140e9434abbea6676 add test
+0e24ff732c00aaa6de8b79a7a6a3719f264b8964 add README.md
+$ git log --oneline
+a65eebe add push_email.py
+5185793 add test
+0e24ff7 add README.md
+
+
+
+$ git reflog
+5185793 HEAD@{0}: reset: moving to HEAD^
+a65eebe HEAD@{1}: commit: add push_email.py
+5185793 HEAD@{2}: commit: add test
+0e24ff7 HEAD@{3}: commit (initial): add README.md
