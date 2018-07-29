@@ -1,0 +1,7 @@
+---- RS_FILE_DAMAGED Matches (6 in 5 files) ----
+Armelf.c:			SSTERR(RS_FILE_DAMAGED, pPath);
+Armelf.c:				SSTWARN(RS_FILE_DAMAGED, pPath);
+Mrdump.c:		SSTWARN(RS_FILE_DAMAGED, pFpHdl->pPath);
+Rb_reason.c (db):		SSTWARN(RS_FILE_DAMAGED, pFileName);
+Reference.c (interact):		SSTERR(RS_FILE_DAMAGED, FilePath);
+String_res.h:	_NL(RS_FILE_DAMAGED,			"ÎÄ¼þ%sËð»µ\n", \

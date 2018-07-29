@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/CPATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/CPATH/operation=remove
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/CPLUS_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/CPLUS_INCLUDE_PATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/CPLUS_INCLUDE_PATH/value=C\:/MinGW\\lib\\gcc\\mingw32\\5.3.0\\include\\c++;C\:/MinGW\\lib\\gcc\\mingw32\\5.3.0\\include
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/C_INCLUDE_PATH/operation=replace
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/C_INCLUDE_PATH/value=C\:/MinGW\\include;C\:/MinGW\\lib\\gcc\\mingw32\\5.3.0\\include;C\:/MinGW\\include;C\:/MinGW\\lib\\gcc\\mingw32\\5.3.0\\include;G\:\\MTK_DB\\KSST
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/append=true
+environment/buildEnvironmentInclude/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/appendContributed=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/LIBRARY_PATH/operation=replace
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/LIBRARY_PATH/value=C\:/MinGW\\lib;C\:/MinGW\\lib\\gcc\\mingw32\\5.3.0
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/append=true
+environment/buildEnvironmentLibrary/cdt.managedbuild.toolchain.gnu.mingw.base.2128280294/appendContributed=true
